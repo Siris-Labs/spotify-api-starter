@@ -5,7 +5,7 @@ import spotipy
 import spotipy.util as sp_util
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOauthError
 from spotipy.client import SpotifyException
-
+#Testing that this works
 
 # Define the scopes that we need access to
 # https://developer.spotify.com/web-api/using-scopes/
